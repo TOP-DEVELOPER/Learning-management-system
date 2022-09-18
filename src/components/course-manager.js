@@ -74,7 +74,7 @@ class CourseManager extends React.Component {
             type: 'course',
             number: 'CS-0000-00',
             title: this.state.newCourseTitle,
-            owner: 'Jess Liu',
+            owner: 'Thomas Jhonson',
             term: '2021 Spring',
             lastModified: createAt.toISOString().slice(0,10)
         }

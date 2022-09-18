@@ -13,7 +13,7 @@ class CourseTable
     state = {
         newCourseTitle: 'New Course Title',
         newCourseID: 'CS-0000-00',
-        newCourseOwner: 'Jess Liu',
+        newCourseOwner: 'Thomas Jhonson',
         newCourseTerm: '2021 Spring',
         newCourseDate: '2021-05-01'
     }
@@ -35,7 +35,7 @@ class CourseTable
             this.setState({
                 newCourseTitle: 'New Course Title',
                 newCourseID: 'CS-0000-00',
-                newCourseOwner: 'Jess Liu',
+                newCourseOwner: 'Thomas Jhonson',
                 newCourseTerm: '2021 Spring',
                 newCourseDate: '2021-05-01'
             })
